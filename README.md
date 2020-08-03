@@ -2,9 +2,9 @@
 
 _Web developpeuse à Paris, France_ <br>
 
-[Email](mailto:sarahrubio.pro@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sarah-rubio-ba765b1a8/) / [GitHub](https://github.com/SarahRubio))
+([Email](mailto:sarahrubio.pro@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sarah-rubio-ba765b1a8/) / [GitHub](https://github.com/SarahRubio))
 
-## 👩🏼‍💻 Portfolio
+## 👩🏻‍💻 Portfolio
   
 **Ça commence comme ça** - _Site regroupant mes projets personnels_
   - Objectif : créer un site web entièrement administrable doté d’une base de données avec un accès sécurisé._
