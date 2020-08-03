@@ -9,7 +9,6 @@ _Web developpeuse à Paris, France_ <br>
 **Ça commence comme ça** - _Site regroupant mes projets personnels_
   - Objectif : créer un site web entièrement administrable doté d’une base de données avec un accès sécurisé._
   - **_Technologies utilisées:_** PHP, MySQL, MAMP, PhpmyAdmin, HTML, CSS3
-<br><br>
 
 **Naïve Museum** - Site fictif d’un musée naïf
   - Objectif : Créer un site web en templating PHP avec une base de données.
@@ -33,8 +32,6 @@ judiciaires, plaidoiries.
 
 **Paris 1er 2015** - Association des Producteurs de Cinéma : (Juriste) Rédaction de notes juridiques en droit du cinéma et propriétés intellectuelles. Réponses aux adhérents en droit social.
 
-   <br><br>
-
 ## 🎒 À côté
 
 **Culture Web** 📟 - apprentissage continu de nouveaux langages et usages libres.
@@ -53,7 +50,6 @@ judiciaires, plaidoiries.
 
 **Certificat d’aptitude à la profession d’avocat** 
 École des Avocats Alienor - Bordeaux
-<br><br>
 
 **Master II Droit des Créations Intellectuelles** 
 Université Montesquieu - Bordeaux IV
