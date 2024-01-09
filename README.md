@@ -1,12 +1,21 @@
 # Sarah Rubio
 
-_Web developpeuse à Paris, France_ <br>
+_Développeuse entre Paris et Angoulême, France_ <br>
 
 ([Email](mailto:sarahrubio.pro@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sarah-rubio-ba765b1a8/) / [GitHub](https://github.com/SarahRubio))
 
 ## 👩🏻‍💻 Portfolio
-  
-**Ça commence comme ça** - _Site regroupant mes projets personnels_
+
+**Anthologia Graeca** Plateforme de recherche de la chaire d'Écriture numérique de l'Université de Montréal
+- **_Technologies et outils utilisés:_** Python, Django, Stimulus, Stimulus, Cirrus css, Sentry
+
+**Aides-territoires** Start-up d'État
+  - **_Technologies et outils utilisés:_** Python, Django, Postgresql, Sentry, AlwaysData, Scalingo, Scaleway
+
+**Relance Transformation** - Site rattaché au Ministère de la transformation et de la fonction publique
+  - **_Technologies utilisées:_** VuejS, Python, Django
+
+**Ça commence comme ça** - Site regroupant mes projets personnels_
   - Objectif : créer un site web entièrement administrable doté d’une base de données avec un accès sécurisé._
   - **_Technologies utilisées:_** PHP, MySQL, MAMP, PhpmyAdmin, HTML, CSS3
 
@@ -17,15 +26,16 @@ _Web developpeuse à Paris, France_ <br>
 **API Poetry** - Une API qui retourne un vers de poésie et son auteur 
   - Objectif : Créer et déployer une API REST en Python avec Flask.
   - **_Technologies utilisées:_** Python, Flask, MySQLAlchemy, PythonAnywhere
-  
-**Slideshow** - Une fonction pour lancer et arrêter un slideshow à volonté 
-  - Objectif : Créer une fonction javascript permettant de lancer un slideshow et
-     de le stopper à volonté en pointant la souris sur une image.
-  - **_Technologies utilisées:_** Javascript, Html, CSS3
      
 ## 👩🏻 🧰 Background Professionnel :
 
-**Paris 2017- 2019** - Barmaid et Chef de rang, projet artistique et expositions.
+**Paris-Angoulême 2020 à aujourd'hui** - Scopyleft, cogérante de société.
+
+**Paris-Angoulême 2020 à 2023** - Développeuse web sur la Start up d'État Aides-territoires.
+
+**Paris-Angoulême 2022 à 2023** - Développeuse web pour l'Université de Montréal.
+
+**Paris 2017 à 2019** - Barmaid et Chef de rang, projet artistique et expositions.
 
 **Paris 14ème 2016** - Cabinet d’avocats PHL : (Juriste) Rédaction d’actes juridiques et
 judiciaires, plaidoiries.
@@ -47,6 +57,9 @@ judiciaires, plaidoiries.
 **Cinéma** - 🎥 Antonioni, Kiarostami, Tsai Ming Liang, Herzog, Carpenter, Blier, Varda.
  
 ## 👩🏼‍🎓 Education
+
+**Développement web**
+Descodeuses - Paris
 
 **Certificat d’aptitude à la profession d’avocat** 
 École des Avocats Alienor - Bordeaux
