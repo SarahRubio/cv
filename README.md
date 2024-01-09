@@ -6,7 +6,7 @@ _Développeuse entre Paris et Angoulême, France_ <br>
 
 ## 👩🏻‍💻 Portfolio
 
-**Anthologia Graeca** Plateforme de recherche de la chaire d'Écriture numérique de l'Université de Montréal
+**Anthologia Graeca** Projet de la Chaire de recherche du Canada sur les écritures numériques
 - **_Technologies et outils utilisés:_** Python, Django, Stimulus, Stimulus, Cirrus css, Sentry
 
 **Aides-territoires** Start-up d'État
