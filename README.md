@@ -7,13 +7,16 @@ _Développeuse entre Paris et Angoulême, France_ <br>
 ## 👩🏻‍💻 Portfolio
 
 **Anthologia Graeca** Projet de la Chaire de recherche du Canada sur les écritures numériques
-- **_Technologies et outils utilisés:_** Python, Django, Stimulus, Stimulus, Cirrus css, Sentry
+- **_Technologies et outils utilisés:_** Python, Django, Stimulus, Postgresql, Cirrus css, Sentry
 
 **Aides-territoires** Start-up d'État
   - **_Technologies et outils utilisés:_** Python, Django, Postgresql, Sentry, AlwaysData, Scalingo, Scaleway
 
 **Relance Transformation** - Site rattaché au Ministère de la transformation et de la fonction publique
   - **_Technologies utilisées:_** VuejS, Python, Django
+
+**Cluster17** - laboratoire d’étude de l’opinion
+  - **_Technologies utilisées:_** Php, Wordpress, Ovh
 
 **Ça commence comme ça** - Site regroupant mes projets personnels_
   - Objectif : créer un site web entièrement administrable doté d’une base de données avec un accès sécurisé._
@@ -29,7 +32,7 @@ _Développeuse entre Paris et Angoulême, France_ <br>
      
 ## 👩🏻 🧰 Background Professionnel :
 
-**Paris-Angoulême 2020 à aujourd'hui** - Scopyleft, cogérante de société.
+**Paris-Angoulême 2020 à aujourd'hui** - Scopyleft, cogérante de société et développeuse web.
 
 **Paris-Angoulême 2020 à 2023** - Développeuse web sur la Start up d'État Aides-territoires.
 
@@ -54,7 +57,7 @@ judiciaires, plaidoiries.
 
 **Bande dessinée** 📚 - Lectrice passionnée (Nilsen, Baudoin, David.B, Nylso, Pedrosa).
 
-**Cinéma** - 🎥 Antonioni, Kiarostami, Tsai Ming Liang, Herzog, Carpenter, Blier, Varda.
+**Cinéma** - 🎥 Antonioni, Kiarostami, Tsai Ming Liang, Herzog, Carpenter, Kawase, Varda.
  
 ## 👩🏼‍🎓 Education
 
