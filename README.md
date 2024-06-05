@@ -2,7 +2,7 @@
 
 _Développeuse entre Paris et Angoulême, France_ <br>
 
-([Email](mailto:sarahrubio.pro@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sarah-rubio-ba765b1a8/) / [GitHub](https://github.com/SarahRubio))
+([Email](mailto:sarahrubio.pro@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sarah-rubio-ba765b1a8/) / [GitHub](https://github.com/SarahRubio) / [GitLab](https://gitlab.com/users/SarahRubio/contributed) / [FramaGit](https://framagit.org/SarahRubio)
 
 ## 👩🏻‍💻 Portfolio
 
