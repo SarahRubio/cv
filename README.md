@@ -6,27 +6,27 @@ _Développeuse entre Paris et Angoulême, France_ <br>
 
 ## 👩🏻‍💻 Portfolio
 
-**Anthologia Graeca** Projet de la Chaire de recherche du Canada sur les écritures numériques
+**[Anthologia Graeca](https://anthologiagraeca.org/)** - **Projet de la Chaire de recherche du Canada sur les écritures numériques**
 - **_Technologies et outils utilisés:_** Python, Django, Stimulus, Postgresql, Cirrus css, Sentry
 
-**Aides-territoires** Start-up d'État
+**[Aides-territoires](https://aides-territoires.beta.gouv.fr/)** - **Start-up d'État**
   - **_Technologies et outils utilisés:_** Python, Django, Postgresql, Sentry, AlwaysData, Scalingo, Scaleway
 
-**Relance Transformation** - Site rattaché au Ministère de la transformation et de la fonction publique
+**[Relance Transformation](https://github.com/betagouv/relance-transformation)** - **Site rattaché au Ministère de la transformation et de la fonction publique dans le cadre du plan France Relance**
   - **_Technologies utilisées:_** VuejS, Python, Django
 
-**Cluster17** - laboratoire d’étude de l’opinion
+**[Cluster17](https://cluster17.com/)** - **laboratoire d’étude de l’opinion**
   - **_Technologies utilisées:_** Php, Wordpress, Ovh
 
-**Ça commence comme ça** - Site regroupant mes projets personnels_
+**Ça commence comme ça** - **Site regroupant mes projets personnels**
   - Objectif : créer un site web entièrement administrable doté d’une base de données avec un accès sécurisé._
   - **_Technologies utilisées:_** PHP, MySQL, MAMP, PhpmyAdmin, HTML, CSS3
 
-**Naïve Museum** - Site fictif d’un musée naïf
+**Naïve Museum** - **Site fictif d’un musée naïf**
   - Objectif : Créer un site web en templating PHP avec une base de données.
   - **_Technologies utilisées:_** PHP, MySQL, HTML, CSS3
   
-**API Poetry** - Une API qui retourne un vers de poésie et son auteur 
+**API Poetry** - **Une API qui retourne un vers de poésie et son auteur**
   - Objectif : Créer et déployer une API REST en Python avec Flask.
   - **_Technologies utilisées:_** Python, Flask, MySQLAlchemy, PythonAnywhere
      
