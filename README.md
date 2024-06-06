@@ -10,29 +10,20 @@ _Développeuse entre Paris et Angoulême, France_ <br>
 - **_Technologies et outils utilisés:_** Python, Django, Stimulus, Postgresql, Cirrus css, Sentry
 
 **[Aides-territoires](https://aides-territoires.beta.gouv.fr/)** - **Start-up d'État**
-  - **_Technologies et outils utilisés:_** Python, Django, Postgresql, Sentry, AlwaysData, Scalingo, Scaleway
+  - **_Technologies et outils utilisés:_** Python, Django, Postgresql, Sentry, AlwaysData, Scalingo, Scaleway, DSFR
 
 **[Relance Transformation](https://github.com/betagouv/relance-transformation)** - **Site rattaché au Ministère de la transformation et de la fonction publique dans le cadre du plan France Relance**
-  - **_Technologies utilisées:_** VuejS, Python, Django
+  - **_Technologies utilisées:_** VuejS, Scalingo, Sentry, DSFR
 
 **[Cluster17](https://cluster17.com/)** - **laboratoire d’étude de l’opinion**
   - **_Technologies utilisées:_** Php, Wordpress, Ovh
 
-**Ça commence comme ça** - **Site regroupant mes projets personnels**
-  - Objectif : créer un site web entièrement administrable doté d’une base de données avec un accès sécurisé._
-  - **_Technologies utilisées:_** PHP, MySQL, MAMP, PhpmyAdmin, HTML, CSS3
-
-**Naïve Museum** - **Site fictif d’un musée naïf**
-  - Objectif : Créer un site web en templating PHP avec une base de données.
-  - **_Technologies utilisées:_** PHP, MySQL, HTML, CSS3
-  
-**API Poetry** - **Une API qui retourne un vers de poésie et son auteur**
-  - Objectif : Créer et déployer une API REST en Python avec Flask.
-  - **_Technologies utilisées:_** Python, Flask, MySQLAlchemy, PythonAnywhere
+**[La Magnétique](https://lamagnetique.fr/)** - **Laboratoire d'expérimentations et de créations sonores sous forme d'ateliers**
+  - **_Technologies utilisées:_** Ruby, Jekyll, Bulma 
      
 ## 👩🏻 🧰 Background Professionnel :
 
-**Paris-Angoulême 2020 à aujourd'hui** - Scopyleft, cogérante de société et développeuse web.
+**Paris-Angoulême 2020 à aujourd'hui** - Scopyleft, cogérante de société et développeuse web sur divers projets internes et externes.
 
 **Paris-Angoulême 2020 à 2023** - Développeuse web sur la Start up d'État Aides-territoires.
 
@@ -59,7 +50,7 @@ judiciaires, plaidoiries.
 
 **Cinéma** - 🎥 Antonioni, Kiarostami, Tsai Ming Liang, Herzog, Carpenter, Kawase, Varda.
  
-## 👩🏼‍🎓 Education
+## 👩🏼‍🎓 Formation
 
 **Développement web**
 Descodeuses - Paris
